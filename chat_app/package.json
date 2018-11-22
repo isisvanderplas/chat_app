@@ -1,0 +1,14 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "building a simple chat application using Node.",
+  "main": "module_demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
